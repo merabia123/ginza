@@ -1,0 +1,57 @@
+#text1{
+    position: relative;
+}
+#text2{
+    position: absolute;
+   color: white;
+      top: 10px;
+      left: 540px;
+}
+#nav2{
+    position: absolute;
+    color: white;
+    top: 80px;
+    left: 450px;
+
+}
+
+#text3{
+    position: absolute;
+color: aliceblue;
+top: 200px;
+left: 350px;
+font-size: 80px; 
+}
+#txt1{
+    position: absolute;
+    color: aliceblue;
+    top: 530px;
+    left: 570px ;
+}
+#txt2{
+    position: absolute;
+    color: aliceblue;
+    top: 530px;
+    left: 640px ;
+}
+#txt3{
+    position: absolute;
+    color: aliceblue;
+    top: 530px;
+    left: 700px ;
+}
+#txt{
+    font-size: 80px;
+}
+#btn1{
+    padding-bottom: 480px;
+   left: 650px;
+
+}
+#txxt{
+    font-size:80px ;
+}
+#btn2{
+width: 10px;
+height: 5px;
+}

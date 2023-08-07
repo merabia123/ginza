@@ -1,0 +1,33 @@
+#text1{
+    position: relative;
+}
+#text2{
+    position: absolute;
+   color: white;
+      top: 10px;
+      left: 540px;
+}
+#nav2{
+    position: absolute;
+    color: whitesmoke;
+    top: 80px;
+    left: 450px;
+
+}
+
+#text3{
+    position: absolute;
+color: aliceblue;
+top: 350px;
+left: 500px;
+font-size: 80px; 
+font-style: italic;
+}
+#txt{
+    font-size: 100px;
+    font-style: oblique;
+}
+#btn{
+    text-decoration: none;
+    left: 1750px;
+}

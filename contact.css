@@ -1,0 +1,24 @@
+#text1{
+    position: relative;
+}
+#text2{
+    position: absolute;
+    top: 20px;
+    left: 550px;
+}
+#nav2{
+    position: absolute;
+    color: white;
+    top: 80px;
+    left: 450px;
+
+}
+#text3{
+    position: absolute;
+color:antiquewhite;
+top: 200px;
+left: 450px;
+font-size: 80px;
+font-style: italic; 
+}
+
